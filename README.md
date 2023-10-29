@@ -1,4 +1,5 @@
 Objective: Identification of Medicinal Plants Using Image Classification
+
 Features: 
 1. The model is trained using RESNET-50 CNN
 2. The model has an incorporated code for a webcam

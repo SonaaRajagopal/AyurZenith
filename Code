@@ -174,4 +174,3 @@ while True:
     # Display the frame with classification result
     cv2.putText(frame, class_name, (10, 30), cv2.FONT_HERSHEY_SIMPLEX, 1, (0, 0, 255), 2)
     display(frame)
-

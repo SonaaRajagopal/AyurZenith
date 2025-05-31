@@ -1,6 +1,6 @@
 **AyurZenith**
 
-**Objective:** Identification of Medicinal Plants Using Image Classification
+**Objective:** The objective of this project is to identify Medicinal Plants Using Image Classification
 
 
 **Features:**
